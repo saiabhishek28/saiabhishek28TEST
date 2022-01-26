@@ -1,15 +1,8 @@
-
-/*
-Design by Free CSS Templates
-http://www.freecsstemplates.org
-Released for free under a Creative Commons Attribution 2.5 License
-*/
-
 body {
 	margin: 0;
 	padding: 0;
 	background: #E8E8E8 url(images/main-bg.png) repeat;
-	font-family: 'Arvo', serif;
+	font-family: 'Arvo';
 	font-size: 14px;
 	/*color: #91919C;*/
 }
